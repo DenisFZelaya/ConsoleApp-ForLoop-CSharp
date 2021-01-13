@@ -1,0 +1,12 @@
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\bin\Debug\netcoreapp3.1\ConsoleApp-ForLoop.exe
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\bin\Debug\netcoreapp3.1\ConsoleApp-ForLoop.deps.json
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\bin\Debug\netcoreapp3.1\ConsoleApp-ForLoop.runtimeconfig.json
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\bin\Debug\netcoreapp3.1\ConsoleApp-ForLoop.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\bin\Debug\netcoreapp3.1\ConsoleApp-ForLoop.dll
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\bin\Debug\netcoreapp3.1\ConsoleApp-ForLoop.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\obj\Debug\netcoreapp3.1\ConsoleApp-ForLoop.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\obj\Debug\netcoreapp3.1\ConsoleApp-ForLoop.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\obj\Debug\netcoreapp3.1\ConsoleApp-ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\obj\Debug\netcoreapp3.1\ConsoleApp-ForLoop.dll
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\obj\Debug\netcoreapp3.1\ConsoleApp-ForLoop.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-ForLoop\ConsoleApp-ForLoop\obj\Debug\netcoreapp3.1\ConsoleApp-ForLoop.genruntimeconfig.cache
